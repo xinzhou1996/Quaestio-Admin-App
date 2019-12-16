@@ -22,6 +22,15 @@
 		22796AAB2397F1B900FF4BB5 /* controlViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22796AAA2397F1B900FF4BB5 /* controlViewController.swift */; };
 		22796AAD2398001A00FF4BB5 /* startSessionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22796AAC2398001A00FF4BB5 /* startSessionViewController.swift */; };
 		22796AAF2398003200FF4BB5 /* newSurveyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22796AAE2398003200FF4BB5 /* newSurveyViewController.swift */; };
+		2290BCC123A7CF5800FA0A78 /* ManageConfig.png in Resources */ = {isa = PBXBuildFile; fileRef = 2290BCB823A7CF5700FA0A78 /* ManageConfig.png */; };
+		2290BCC223A7CF5800FA0A78 /* Survey1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2290BCB923A7CF5700FA0A78 /* Survey1.png */; };
+		2290BCC323A7CF5800FA0A78 /* CreateConfig.png in Resources */ = {isa = PBXBuildFile; fileRef = 2290BCBA23A7CF5700FA0A78 /* CreateConfig.png */; };
+		2290BCC423A7CF5800FA0A78 /* MainMenu.png in Resources */ = {isa = PBXBuildFile; fileRef = 2290BCBB23A7CF5700FA0A78 /* MainMenu.png */; };
+		2290BCC523A7CF5800FA0A78 /* Dashboard.png in Resources */ = {isa = PBXBuildFile; fileRef = 2290BCBC23A7CF5800FA0A78 /* Dashboard.png */; };
+		2290BCC623A7CF5800FA0A78 /* Survey0.png in Resources */ = {isa = PBXBuildFile; fileRef = 2290BCBD23A7CF5800FA0A78 /* Survey0.png */; };
+		2290BCC723A7CF5800FA0A78 /* Survey2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2290BCBE23A7CF5800FA0A78 /* Survey2.png */; };
+		2290BCC823A7CF5800FA0A78 /* Control.png in Resources */ = {isa = PBXBuildFile; fileRef = 2290BCBF23A7CF5800FA0A78 /* Control.png */; };
+		2290BCC923A7CF5800FA0A78 /* Survey3.png in Resources */ = {isa = PBXBuildFile; fileRef = 2290BCC023A7CF5800FA0A78 /* Survey3.png */; };
 		229D23702389B115007193F6 /* RenderedVideo2.mov in Resources */ = {isa = PBXBuildFile; fileRef = 229D236F2389B115007193F6 /* RenderedVideo2.mov */; };
 		22A52AD2237C682A00726280 /* RenderedVideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 22A52AD1237C682A00726280 /* RenderedVideo.mp4 */; };
 		22B7CFFB2378DDE400C14433 /* OpenSans-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 22B7CFF12378DDE400C14433 /* OpenSans-Semibold.ttf */; };
@@ -86,6 +95,15 @@
 		22796AAA2397F1B900FF4BB5 /* controlViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = controlViewController.swift; sourceTree = "<group>"; };
 		22796AAC2398001A00FF4BB5 /* startSessionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = startSessionViewController.swift; sourceTree = "<group>"; };
 		22796AAE2398003200FF4BB5 /* newSurveyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newSurveyViewController.swift; sourceTree = "<group>"; };
+		2290BCB823A7CF5700FA0A78 /* ManageConfig.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ManageConfig.png; sourceTree = "<group>"; };
+		2290BCB923A7CF5700FA0A78 /* Survey1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Survey1.png; sourceTree = "<group>"; };
+		2290BCBA23A7CF5700FA0A78 /* CreateConfig.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CreateConfig.png; sourceTree = "<group>"; };
+		2290BCBB23A7CF5700FA0A78 /* MainMenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MainMenu.png; sourceTree = "<group>"; };
+		2290BCBC23A7CF5800FA0A78 /* Dashboard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Dashboard.png; sourceTree = "<group>"; };
+		2290BCBD23A7CF5800FA0A78 /* Survey0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Survey0.png; sourceTree = "<group>"; };
+		2290BCBE23A7CF5800FA0A78 /* Survey2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Survey2.png; sourceTree = "<group>"; };
+		2290BCBF23A7CF5800FA0A78 /* Control.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Control.png; sourceTree = "<group>"; };
+		2290BCC023A7CF5800FA0A78 /* Survey3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Survey3.png; sourceTree = "<group>"; };
 		229D236F2389B115007193F6 /* RenderedVideo2.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = RenderedVideo2.mov; sourceTree = "<group>"; };
 		22A52AD1237C682A00726280 /* RenderedVideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = RenderedVideo.mp4; sourceTree = "<group>"; };
 		22B7CFF12378DDE400C14433 /* OpenSans-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Semibold.ttf"; sourceTree = "<group>"; };
@@ -144,6 +162,7 @@
 		223F84D1237483F400DAB180 = {
 			isa = PBXGroup;
 			children = (
+				2290BCB723A7CF4800FA0A78 /* Screenshots */,
 				223F84DC237483F500DAB180 /* Admin App */,
 				223F84F3237483F600DAB180 /* Admin AppTests */,
 				223F84FE237483F600DAB180 /* Admin AppUITests */,
@@ -203,6 +222,22 @@
 				223F8501237483F600DAB180 /* Info.plist */,
 			);
 			path = "Admin AppUITests";
+			sourceTree = "<group>";
+		};
+		2290BCB723A7CF4800FA0A78 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				2290BCBF23A7CF5800FA0A78 /* Control.png */,
+				2290BCBA23A7CF5700FA0A78 /* CreateConfig.png */,
+				2290BCBC23A7CF5800FA0A78 /* Dashboard.png */,
+				2290BCBB23A7CF5700FA0A78 /* MainMenu.png */,
+				2290BCB823A7CF5700FA0A78 /* ManageConfig.png */,
+				2290BCBD23A7CF5800FA0A78 /* Survey0.png */,
+				2290BCB923A7CF5700FA0A78 /* Survey1.png */,
+				2290BCBE23A7CF5800FA0A78 /* Survey2.png */,
+				2290BCC023A7CF5800FA0A78 /* Survey3.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 		22B7CFF02378DDE400C14433 /* fonts */ = {
@@ -370,8 +405,12 @@
 			files = (
 				22B7CFFC2378DDE400C14433 /* OpenSans-Light.ttf in Resources */,
 				223F84EA237483F600DAB180 /* LaunchScreen.storyboard in Resources */,
+				2290BCC323A7CF5800FA0A78 /* CreateConfig.png in Resources */,
 				223F850E2374844100DAB180 /* GoogleService-Info.plist in Resources */,
+				2290BCC723A7CF5800FA0A78 /* Survey2.png in Resources */,
+				2290BCC123A7CF5800FA0A78 /* ManageConfig.png in Resources */,
 				22B7CFFE2378DDE400C14433 /* OpenSans-ExtraBold.ttf in Resources */,
+				2290BCC923A7CF5800FA0A78 /* Survey3.png in Resources */,
 				223F84E7237483F600DAB180 /* Assets.xcassets in Resources */,
 				22A52AD2237C682A00726280 /* RenderedVideo.mp4 in Resources */,
 				223F84E5237483F500DAB180 /* Main.storyboard in Resources */,
@@ -380,10 +419,15 @@
 				22B7CFFD2378DDE400C14433 /* OpenSans-Italic.ttf in Resources */,
 				22B7D0002378DDE400C14433 /* OpenSans-Bold.ttf in Resources */,
 				22B7D0042378DDE400C14433 /* OpenSans-BoldItalic.ttf in Resources */,
+				2290BCC623A7CF5800FA0A78 /* Survey0.png in Resources */,
 				22B7CFFF2378DDE400C14433 /* OpenSans-LightItalic.ttf in Resources */,
 				22B7D0032378DDE400C14433 /* OpenSans-Regular.ttf in Resources */,
+				2290BCC223A7CF5800FA0A78 /* Survey1.png in Resources */,
+				2290BCC423A7CF5800FA0A78 /* MainMenu.png in Resources */,
 				229D23702389B115007193F6 /* RenderedVideo2.mov in Resources */,
 				22B7D0012378DDE400C14433 /* OpenSans-SemiboldItalic.ttf in Resources */,
+				2290BCC523A7CF5800FA0A78 /* Dashboard.png in Resources */,
+				2290BCC823A7CF5800FA0A78 /* Control.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
