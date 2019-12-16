@@ -10,10 +10,23 @@ import UIKit
 
 class submitViewController: UIViewController {
 
+    @IBAction func submit(_ sender: Any) {
+
+        self.navigationController?.popToViewController((self.navigationController?.viewControllers[2])!, animated: true)
+        
+    }
+    @IBOutlet weak var bg: UIView!
+    @IBOutlet weak var submitButton: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        submitButton.layer.cornerRadius = 29
+        submitButton.layer.shadowOffset = .init(width: 0, height: 3)
+        submitButton.layer.shadowOpacity = 0.3
+        
+        bg.layer.cornerRadius = 29
+        bg.layer.shadowOffset = .init(width: 0, height: 3)
+        bg.layer.shadowOpacity = 0.3
     }
     
 

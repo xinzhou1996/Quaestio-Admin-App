@@ -7,3 +7,14 @@
 //
 
 import Foundation
+
+struct Response{
+    var shortCount = 0
+    var faceType = ""
+    var personalCount = 0
+    var identifier = ""
+    var privacyEnabled = false
+    var startTime = 0
+    var endTime = 0
+    var waitingTime = 0
+}
