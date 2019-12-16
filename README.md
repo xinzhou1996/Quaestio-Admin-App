@@ -7,7 +7,7 @@ Amin App for Quaestio. Imperial College London; ELEC97046 - Human-Centered Robot
 ## New Setup
 ![NewSetup](https://user-images.githubusercontent.com/31923016/70916615-e5cb6100-2013-11ea-9b9b-c3cbcb873023.png)
 
-## Manage Setup
+## Manage Setups
 ![ManageSetup](https://user-images.githubusercontent.com/31923016/70916613-e5cb6100-2013-11ea-94c2-e6827fd31d02.png)
 
 ## Dashboard
